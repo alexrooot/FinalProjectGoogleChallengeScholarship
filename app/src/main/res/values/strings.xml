@@ -1,0 +1,149 @@
+<resources>
+    <string name="app_name">Self-quiz android basics</string>
+    <string name="Main_Category_1">Lesson 1</string>
+    <string name="Main_Category_2">Lesson 2</string>
+    <string name="Main_Category_3">Lesson 3</string>
+    <string name="Main_Category_4">Lesson 4</string>
+    <string name="Main_Category_5">Lesson 5</string>
+    <string name="Main_Category_6">Lesson 6</string>
+    <string name="Main_Category_7">Lesson 7</string>
+    <string name="Main_Category_8">Lesson 8</string>
+    <string name="Main_Category_9">Lesson 9</string>
+    <string name="Main_Category_10">Lesson 10</string>
+    <string name="Main_Category_11">Lesson 11</string>
+    <string name="Main_Category_12">Lesson 12</string>
+
+
+    <string name="Category_1_title">Quiz for lesson 1</string>
+    <string name="Category_2_title">Quiz for lesson 2</string>
+    <string name="Category_3_title">Quiz for lesson 3</string>
+    <string name="Category_4_title">Quiz for lesson 4</string>
+
+
+    <string name="Question_Number_1">Question 1</string>
+    <string name="Question_Number_2">Question 2</string>
+    <string name="Question_Number_3">Question 3</string>
+    <string name="Question_Number_4">Question 4</string>
+    <string name="Question_Number_5">Question 5</string>
+    <string name="Question_Number_6">Question 6</string>
+    <string name="Question_Number_7">Question 7</string>
+    <string name="Question_Number_8">Question 8</string>
+
+    <string name="Lesson_1_Question_1_Asked">What Website are you asked to join.</string>
+    <string name="Lesson_1_Question_2_Asked">What two sites does udacity recommends to post comments for discussion with classmates.</string>
+
+    <string name="Lesson_1_Question_1_answer">slack</string>
+    <string name="Lesson_1_Question_2_answer">slack and udacity</string>
+
+
+
+    <string name="Lesson_2_Question_1_Asked">What is the naming convention used in programming.</string>
+    <string name="Lesson_2_Question_2_Asked">What does IDE stand for.</string>
+    <string name="Lesson_2_Question_3_Asked">What does XML stand for.</string>
+    <string name="Lesson_2_Question_4_Asked">What is the most essential  attribute of XML View.</string>
+    <string name="Lesson_2_Question_5_Asked">What value do you use to warp a view content ether to height or width.</string>
+    <string name="Lesson_2_Question_6_Asked">What attribute do you use in TextView to change the text size.</string>
+    <string name="Lesson_2_Question_7_Asked">what type of value does the textSize attribute allows.</string>
+
+    <string name="Lesson_2_Question_1_answer">Camel case</string>
+    <string name="Lesson_2_Question_2_answer">Integrated development environment</string>
+    <string name="Lesson_2_Question_3_answer">enticeable markup language</string>
+    <string name="Lesson_2_Question_4_answer">layout_width and layout_height</string>
+    <string name="Lesson_2_Question_5_answer">wrap_content</string>
+    <string name="Lesson_2_Question_6_answer">textSize</string>
+    <string name="Lesson_2_Question_7_answer">sp</string>
+
+
+    <string name="Lesson_3_Question_1_Asked">What would you use to build multiple root views in XML.</string>
+    <string name="Lesson_3_Question_2_Asked">Which ViewGroup give you the most customizable options to layout your views.</string>
+    <string name="Lesson_3_Question_3_Asked">How are layour_weight useful in XML.</string>
+    <string name="Lesson_3_Question_4_Asked">What attribute do you need in order to layout views correctly in Relative Layout.</string>
+    <string name="Lesson_3_Question_5_Asked">What does padding do to a view.</string>
+    <string name="Lesson_3_Question_6_Asked">What does Margin do to the view.</string>
+
+    <string name="Lesson_3_Question_1_answer">ViewGroups</string>
+    <string name="Lesson_3_Question_2_answer">RelativeLayout</string>
+    <string name="Lesson_3_Question_3_answer">help to spread out views proportionally based on their weight values</string>
+    <string name="Lesson_3_Question_4_answer">id</string>
+    <string name="Lesson_3_Question_5_answer">adds some empty space within the view</string>
+    <string name="Lesson_3_Question_6_answer">adds some empty space to edge of view</string>
+
+    <string name="Lesson_4_Question_1_Asked">If you don’t have your own website what should your project company domain be.</string>
+    <string name="Lesson_4_Question_2_Asked">In what mode does your phone need to be to install App from android Studio.</string>
+    <string name="Lesson_4_Question_3_Asked">What is the prefer folder to store Images</string>
+    <string name="Lesson_4_Question_4_Asked">what attribute do you use to change text font.</string>
+    <string name="Lesson_4_Question_5_Asked">What website did they ask you to find code snips.</string>
+    <string name="Lesson_4_Question_6_Asked">What attribute do you use to expand and image.</string>
+
+    <string name="Lesson_4_Question_1_answer">android.example.com</string>
+    <string name="Lesson_4_Question_2_answer">usb debugging</string>
+    <string name="Lesson_4_Question_3_answer">drawable folder</string>
+    <string name="Lesson_4_Question_4_answer">fontFamily</string>
+    <string name="Lesson_4_Question_5_answer">github</string>
+    <string name="Lesson_4_Question_6_answer">scaleType</string>
+
+
+    <string name="Lesson_5_Question_1_Asked">The Quiz project is asked to be name what exactly.</string>
+    <string name="Lesson_5_Question_2_Asked">The project had to have what two views in it.</string>
+
+    <string name="Lesson_5_Question_1_answer">HelloAndroid</string>
+    <string name="Lesson_5_Question_2_answer">ImageView and TextView</string>
+
+
+
+    <string name="Lesson_6_Question_1_Asked">What attribute does a button use to activate a process.</string>
+    <string name="Lesson_6_Question_2_Asked">What is the name of the method that executes a onClick action.</string>
+    <string name="Lesson_6_Question_3_Asked">What is a variable in java.</string>
+    <string name="Lesson_6_Question_4_Asked">If you declare a variable inside a method what is the scope of that variable.</string>
+
+    <string name="Lesson_6_Question_1_answer">onClick</string>
+    <string name="Lesson_6_Question_2_answer">onClick name</string>
+    <string name="Lesson_6_Question_3_answer">it’s a value holder</string>
+    <string name="Lesson_6_Question_4_answer">local</string>
+
+    <string name="Lesson_7_Question_1_Asked">What would you use to build multiple root views in XML.</string>
+    <string name="Lesson_7_Question_2_Asked">Which ViewGroup gives you the most customizable options to layout your views.</string>
+    <string name="Lesson_7_Question_3_Asked">How are layout_weight useful in XML.</string>
+    <string name="Lesson_7_Question_4_Asked">What attribute do you need in order to layout views correctly in Relative Layout.</string>
+    <string name="Lesson_7_Question_5_Asked">What does padding do to a view.</string>
+    <string name="Lesson_7_Question_6_Asked">What does Margin do to the view.</string>
+
+    <string name="Lesson_7_Question_1_answer">ViewGroups</string>
+    <string name="Lesson_7_Question_2_answer">RelativeLayout</string>
+    <string name="Lesson_7_Question_3_answer">help to spread out views proportionally based on their weight values</string>
+    <string name="Lesson_7_Question_4_answer">id</string>
+    <string name="Lesson_7_Question_5_answer">adds some empty space within the view</string>
+    <string name="Lesson_7_Question_6_answer">adds some empty space to edge of view</string>
+
+    <string name="Lesson_8_Question_1_Asked">If you don’t have your own website what should your project company domain be.</string>
+    <string name="Lesson_8_Question_2_Asked">In what mode does your phone need to be to install App from android Studio.</string>
+
+    <string name="Lesson_8_Question_1_answer">android.example.com</string>
+    <string name="Lesson_8_Question_2_answer">usb debugging</string>
+
+    <string name="Radio_Question_asked_1">In XML which is a valid form of getting a string value from the strings.xml file?</string>
+    <string name="Radio_Question_asked_2">In Java which is a valid form of getting a string value from the strings.xml file?</string>
+    <string name="Radio_Question_asked_3">In Java if you see these code will it execute True or False ?\n int x = 10;  \n sum(x);  \n private int sum(int number) {\n return number;\n }</string>
+    <string name="Radio_Question_asked_4">Which of the following is a valid way of using a XML style reference and use it in a View?</string>
+    <string name="Radio_Question_asked_5">Which of the following is valid Log instruction in Java?</string>
+    <string name="Radio_Question_asked_6">Which of the following is a valid way of converting a non-string data type to a string?</string>
+    <string name="Radio_Question_asked_7">Which of the following is a valid way of casting a View?</string>
+    <string name="Radio_Question_asked_8">Why would you want to cast a view in Java?</string>
+
+    <string name="Radio_questions_Option1">findViewById(R.id.order)</string>
+    <string name="Radio_questions_Option2">android:text="@string/order"</string>
+    <string name="Radio_questions_Option3">getString(R.string.order)</string>
+    <string name="Radio_questions_Option4">style = "@style/Header"</string>
+    <string name="Radio_questions_Option5">Log.V("Main Activity","whippedcream was boolean of"+wcvb);</string>
+    <string name="Radio_questions_Option6">orderSummary.setText("Log.v("Main Activity",whippedcream was booleanof"+wcvd);)</string>
+    <string name="Radio_questions_Option7">String first_name = name_text.getText().toString();</string>
+    <string name="Radio_questions_Option8">EditText name_text = (EditText) findViewById(R.id.first_name_text_input);</string>
+
+
+
+    <string name="Button_Submit">Submit</string>
+    <string name="Button_Clear">Clear</string>
+
+
+
+</resources>
